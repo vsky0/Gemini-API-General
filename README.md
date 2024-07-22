@@ -1,6 +1,6 @@
 # Gemini-API
 
-Acessing the gemini via API using the google-generativeai module.
+Accessed the gemini via API using the google-generativeai module.
 
 ## Retrieval Augmented Generation (RAG) with Gemini
 
